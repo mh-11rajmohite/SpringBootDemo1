@@ -10,7 +10,6 @@ public class WhatsAppApplication {
 		SpringApplication.run(WhatsAppApplication.class, args);
 	
 	
-		System.out.println("Hello World !!!!!!!!");
-	}
+ 	}
 
 }
