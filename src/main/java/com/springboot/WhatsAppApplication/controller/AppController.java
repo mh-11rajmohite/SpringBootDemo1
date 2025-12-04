@@ -4,7 +4,7 @@ public class AppController {
 
 	public void getHome() {
 		
-		System.out.println("Welcome to home page");
+		System.out.println("Welcome to home page !!!");
 		
 	}
 	
