@@ -6,13 +6,14 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.3.3</version>
-		<packaging>war</packaging>
+		
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springboot</groupId>
 	<artifactId>WhatsAppApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>WhatsAppApplication</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
